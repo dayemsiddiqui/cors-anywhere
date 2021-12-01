@@ -1,0 +1,23 @@
+{
+  "name": "cors-anywhere",
+  "version": "1.0.0",
+  "description": "Cors Proxy for all woxcut projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayemsiddiqui/cors-anywhere.git"
+  },
+  "author": "Dayem Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dayemsiddiqui/cors-anywhere/issues"
+  },
+  "homepage": "https://github.com/dayemsiddiqui/cors-anywhere#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
